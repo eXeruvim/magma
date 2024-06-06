@@ -1,0 +1,5 @@
+/target
+.vscode
+decrypted.txt
+encrypted.bin
+keyfile.txt
